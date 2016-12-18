@@ -33,5 +33,4 @@ M = int('10011', 2)
 i = 2
 j = 6
 merged_num = updateBits(N, M, i, j)
-print bin(merged_num)
-
+print (bin(merged_num))
